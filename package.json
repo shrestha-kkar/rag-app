@@ -15,6 +15,8 @@
     "typescript": "^6.0.3"
   },
   "dependencies": {
+    "@langchain/community": "^1.1.28",
+    "@langchain/core": "^1.1.48",
     "@langchain/textsplitters": "^1.0.1",
     "@pinecone-database/pinecone": "^7.2.0",
     "axios": "^1.16.1",
